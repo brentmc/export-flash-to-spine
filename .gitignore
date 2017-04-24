@@ -1,0 +1,6 @@
+.DS_Store
+/output/*
+*/.idea/workspace.xml
+/.idea/workspace.xml
+/.idea/misc.xml
+/.idea/uiDesigner.xml
