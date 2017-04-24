@@ -5,7 +5,7 @@ var dom = fl.getDocumentDOM();
 var timeline = dom.getTimeline();
 
 //var outputFolderLocation = fl.browseForFolderURL("Select a folder.");
-var outputFolderLocation = 'file://USers/brentmcivor/Desktop/flash_export_test/output'
+var outputFolderLocation = 'file://Users/brentmcivor/Intrepica/brents_scripts/export-flash-to-spine/output'
           
 var layersAr  = fl.getDocumentDOM().getTimeline().layers;
 var backupAr = backupData();
